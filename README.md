@@ -46,7 +46,7 @@ Useful commands for mixing magics：
 5. git merge "a branch"
 6. git branch -d "a branch"           --->delete a branch
 7. git merge MASTER/MAIN              --->bring in changes from local main branch into the branch that your are working so that you can solve conflict from time to time . To prevent nuclear bomb fusion later.
-8. git pull                           ---> do it often whenever someone make changes to the main branch in GITHUB. So that you can `git merge Master` to prevent nuclear fusion later.
+8. git pull       (for master/main)   ---> do it often whenever someone make changes to the main branch in GITHUB. So that you can `git merge Master` to prevent nuclear fusion later.
 ```
 
 
