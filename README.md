@@ -5,7 +5,7 @@ This is a self-help guide for forgetful people like me
 1. https://www.youtube.com/watch?v=RGOj5yH7evk&t=1514s
 
 `````
-##Basic Git commands:
+## Basic Git commands:
 ````
 1.git clone
 2.git add .
@@ -14,7 +14,7 @@ This is a self-help guide for forgetful people like me
 5. git status
 
 ````
-##Connect your local machine to GIT using SSH. 
+## Connect your local machine to GIT using SSH. 
 ````
 Reason to use SSH:remove the need of personal access token that needs to be entered everytime commit is done. 
 In your terminal:
@@ -35,7 +35,7 @@ Step 2 : git push
 ````
 
 
-##Git Workflow
+## Git Workflow
 ````
 I hope i learn this earlier but it still requires tacit understanding among teammates. 
 Useful commands for mixing magics：
@@ -50,7 +50,7 @@ Useful commands for mixing magics：
 ````
 
 
-##Technique that may help u to clear commits flood
+## Technique that may help u to clear commits flood
 ````
 1. git reset "HEAD"                   ---> It does not remove the changes that you have made. 
 ````
