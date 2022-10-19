@@ -56,7 +56,15 @@ Useful commands for mixing magics：
 ````
 
 
+##Technique for storing changes if you want to switch branches
+````
+1. git stash -a save "your message for the stash"
+2. git stash list
+3. git stash pop stash@{2}
+4. git stash apply stash@{2}
+5. git stash drop stash@{1}
 
+````
 
 
 
