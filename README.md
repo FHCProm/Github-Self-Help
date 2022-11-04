@@ -66,5 +66,14 @@ Useful commands for mixing magics：
 
 ````
 
+## To check others code without interfering my own code 
+````
+1. git fetch <remote name> <branch name>
+   example = git fetch origin buttonRefactoring
+2. git checkout -b test_branch origin/branchName
+3. git remote  --> check all your remotes
+
+````
+
 
 
