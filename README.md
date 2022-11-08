@@ -82,5 +82,9 @@ Useful commands for mixing magics：
 3. git reset HEAD^    --> useful for checking what changes a branch has made.
 
 ````
+## format your git log output so that it is more readable
+````
+1. git log --format=format:"%C(auto)%h %C(green)%aN%Creset %s%C(red)%d" --graph
+````
 
 
