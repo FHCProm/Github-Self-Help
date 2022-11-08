@@ -79,7 +79,7 @@ Useful commands for mixing magics：
 ````
 1. git reset HEAD^   -->goes back 1 pull request merge. It means ignore last branch commit. It goes back 1 commit on MAIN branch. 
 2. git reset HEAD^   --> it is just based on MAIN BRANCH.(Does not care about other branches)
-
+3. git reset HEAD^    --> useful for checking what changes a branch has made.
 
 ````
 
