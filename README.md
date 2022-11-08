@@ -77,8 +77,8 @@ Useful commands for mixing magics：
 
 ## Using git reset with HEAD
 ````
-1. git reset HEAD^   -->goes back 1 commit, if the last commit was a pull request merge, it would ignore the pull request commit and go back to the other previous commit. 
-2. not sure what happens when you insert  ___git reset___ only yet 
+1. git reset HEAD^   -->goes back 1 pull request merge. Find until last pull request commit 
+
 
 ````
 
