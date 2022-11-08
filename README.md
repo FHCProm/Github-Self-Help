@@ -77,7 +77,7 @@ Useful commands for mixing magics：
 
 ## Using git reset with HEAD
 ````
-1. git reset HEAD^   -->goes back 1 pull request merge. Find until last pull request commit 
+1. git reset HEAD^   -->goes back 1 pull request merge. Find until last pull request commit. It means ignore last branch commit. 
 
 
 ````
