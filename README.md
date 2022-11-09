@@ -87,4 +87,9 @@ Useful commands for mixing magics：
 1. git log --format=format:"%C(auto)%h %C(green)%aN%Creset %s%C(red)%d" --graph
 ````
 
+## Tiny Bits
+````
+1. <pathspec>   --> example : src/components/button.vue
+````
+
 
