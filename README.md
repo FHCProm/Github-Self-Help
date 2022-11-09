@@ -90,6 +90,7 @@ Useful commands for mixing magics：
 ## Tiny Bits
 ````
 1. <pathspec>   --> example : src/components/button.vue
+2. [<tree-ish>]  -->example : d1b0830 (which is commit number)
 ````
 
 
